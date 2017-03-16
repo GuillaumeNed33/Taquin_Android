@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assassin\'s Creed Taquin</string>
+    <string name="gridSize">Choisissez la taille de la grille de jeu</string>
+    <string name="imageIndic">Choisissez une image pour le jeu</string>
+    <string name="startGameButton">Lancer le Jeu</string>
+    <string name="scoreTitle">Meilleurs Scores</string>
+    <string name="infoToPlayer">Reconstruisez l\'image ! La case Abstergo doit se situer en bas à droite.</string>
+    <string name="playerName">Entrer votre nom</string>
+    <string name="defaultName">Sans nom</string>
+    <string name="backMenu">Retour au menu</string>
+    <string name="selected">Image sélectionnée !</string>
+    <string name="victory">"Bien joué "</string>
+    <string name="victorySupp">Tu as terminé le jeu en</string>
+    <string name="highScore">"Vous entrez dans les meilleurs scores dans la catégorie "</string>
+    <string name="cancel">Abandonner</string>
+    <string name="solution">Voir la Solution</string>
+    <string name="highScoreFail">Dommage, vous n\'entrez pas dans les meilleurs score... Réesayez !</string>
+    <string name="quit">Êtes-vous certain de vouloir retourner au menu principal ?</string>
+    <string name="soluce">Voilà la soluton ! Vous auriez pu le faire...</string>
+</resources>

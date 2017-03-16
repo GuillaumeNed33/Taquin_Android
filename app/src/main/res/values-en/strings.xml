@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assassin\'s Creed Taquin</string>
+    <string name="gridSize">Choose the size of the grid</string>
+    <string name="imageIndic">Choose the picture for the game</string>
+    <string name="startGameButton">Start Game</string>
+    <string name="scoreTitle">High Scores</string>
+    <string name="infoToPlayer">Rebuild the picture ! The Abstergo\'s case have to be on the right bottom corner.</string>
+    <string name="playerName">Enter your name</string>
+    <string name="defaultName">No name</string>
+    <string name="backMenu">Back to menu</string>
+    <string name="selected">Image selected !</string>
+    <string name="victory">"Well done "</string>
+    <string name="victorySupp">"You complete the game in "</string>
+    <string name="highScore">"You enter the high scores on the category "</string>
+    <string name="cancel">Give up</string>
+    <string name="solution">Watch Solution</string>
+    <string name="highScoreFail">Too bad ! You\'re not in the High Score... Try again !</string>
+    <string name="quit">Are you sure ? You will be redirected to the main menu.</string>
+    <string name="soluce">Here the solution ! You could have done it...</string>
+</resources>
